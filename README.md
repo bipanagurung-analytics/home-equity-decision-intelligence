@@ -50,17 +50,19 @@ Borrowers who did not disclose their **Debt-to-Income ratio** were substantially
 
 ## Past Behavior Predicts Future Risk
 
-<!-- INSERT IMAGE: Default Rate by Delinquent Credit Lines -->
+<img width="1086" height="568" alt="image" src="https://github.com/user-attachments/assets/5f4c17fd-bee0-4adb-8c7d-d0cfd1ccfac2" />
+
 
 Borrowers with more delinquent credit accounts consistently exhibited higher default rates, making repayment history one of the strongest indicators of future lending risk.
 
 ---
 
-## Different Borrowers, Different Risk Profiles
+## Different Borrowers Require Different Lending Strategies
 
-<!-- INSERT IMAGE: Borrower Segmentation (K-Means) -->
+<img width="1089" height="620" alt="image" src="https://github.com/user-attachments/assets/ae1f1582-2117-402e-9bd9-7c44f4a09b68" />
 
-Customer segmentation revealed distinct borrower groups with different financial characteristics, demonstrating that portfolio risk extends beyond a simple approve-or-reject decision.
+
+Clustering revealed distinct borrower groups with different credit histories, debt burdens, and delinquency patterns, suggesting that a one-size-fits-all lending strategy may overlook meaningful differences in borrower risk.
 
 ---
 
