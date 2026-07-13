@@ -121,17 +121,17 @@ Rather than functioning as a black box, the model highlighted the key factors in
 
 Interested in how the solution was built?
 
-📄 **Documentation**  
-Complete business case, methodology, model evaluation, and recommendations.
+📄 **[Read the Complete Project Report](documentation/Home_Equity_Decision_Intelligence_Report.pdf)**  
+Business problem, methodology, model evaluation, and recommendations.
 
-💻 **Source Code**  
-Fully documented end-to-end implementation in R.
+💻 **[Explore the Source Code](code/)**  
+End-to-end R implementation for data preparation, predictive modeling, clustering, and evaluation.
 
-📊 **Visualizations**  
-Exploratory analysis, feature engineering, and model evaluation.
+📊 **[Browse the Visualizations](plots/)**  
+Key figures used throughout the analysis and model evaluation.
 
-📁 **Dataset**  
-Home Equity (HMEQ) lending dataset used throughout the project.
+📁 **[Review the Dataset](data/)**  
+Home Equity (HMEQ) dataset and supporting project files.
 
 ---
 
